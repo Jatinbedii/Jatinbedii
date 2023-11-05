@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Jatin Bedi here,</h1>
-<h3 align="center">Currently trying to get into full stack web development</h3>
+<h3 align="center">Nice to meet you fellow person</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinbedii&label=Profile%20views&color=0e75b6&style=flat" alt="jatinbedii" /> </p>
 
